@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+ReactReduxSemanticEasyStarter is a simple application to easily start with react redux and sematic ui.  
+This apps get list of post from a service and add a post to list of posts.  
+
+Redux is to save all the state of application in a centralized store and can be shared with all your react components.  
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
